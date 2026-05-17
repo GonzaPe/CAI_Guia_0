@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej14_Tablas_de_Multiplicar", "Ej14_Tablas_de_Multiplicar.csproj", "{44AC5A7D-1B3A-4C4E-84BD-172E5A15ED87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AC5A7D-1B3A-4C4E-84BD-172E5A15ED87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AC5A7D-1B3A-4C4E-84BD-172E5A15ED87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AC5A7D-1B3A-4C4E-84BD-172E5A15ED87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AC5A7D-1B3A-4C4E-84BD-172E5A15ED87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669A5E38-589D-4277-B978-90E1F0308D99}
+	EndGlobalSection
+EndGlobal
